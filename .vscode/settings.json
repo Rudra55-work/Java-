@@ -1,0 +1,30 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "9.2d array",
+        "8.Array",
+        "7.Questions",
+        "6.Functions",
+        "5.Patterns",
+        "4.loops",
+        "3.pract-que",
+        "25.Queue",
+        "24.stack-2",
+        "23.Stack",
+        "22.Linkedlist-2.java",
+        "21.Linked-List",
+        "20.Arraylists",
+        "2.conditional-stat",
+        "19.backtraking",
+        "18.mergesort",
+        "17.oops",
+        "16.rec_adavance",
+        "15.rec_best",
+        "14.recursiion",
+        "13.Sorting",
+        "12.bit manupulation",
+        "10.strings",
+        "1.fundamentals",
+        ""
+    ]
+}
